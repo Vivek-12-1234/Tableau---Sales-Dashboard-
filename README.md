@@ -1,6 +1,5 @@
 # Tableau---Sales-Dashboard-
 
-# Key Requirements
 **KPI Overview**
 
 	Display a summary of total sales, profits and quantity for the current year and the previous year.
